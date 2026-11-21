@@ -1,0 +1,5 @@
+langchain-core==1.8.4
+langchain-groq==1.2.1
+langgraph==1.2.24
+requests==2.34.2
+streamlit==1.67.0
